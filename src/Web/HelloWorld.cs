@@ -9,7 +9,7 @@ namespace CleanArchitecture.Web
     {
         public static void HelloWorld()
         {
-            Console.WriteLine("Hello World");
+            Console.WriteLine("Hola mundo");
         }
     }
 }
